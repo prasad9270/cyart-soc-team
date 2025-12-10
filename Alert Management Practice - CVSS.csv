@@ -1,0 +1,6 @@
+Alert,CVSS Score,Severity
+Log4Shell Exploit,9.8,Critical
+Port Scan,3.1,Low
+Man in the Middle,7.8,High
+SQL Injection,9,Critical
+Phishing Email,9.1,Critical
