@@ -1,0 +1,4 @@
+Incident ID,Event Time,Detection Time,Response Time,Closure Time,MTTD (Hrs),MTTR (Hrs),Dwell Time (Hrs),Alert Type,True/False Positive
+1,9:00,11:00,11:30,13:00,2:00,2:00,4:00,Malware,TRUE
+2,10:00,14:00,14:30,16:30,4:00,2:30,6:30,Phishing ,FALSE
+3,8:30,10:00,10:15,12:00,1:30,2:00,3:30,Brute Force,TRUE
